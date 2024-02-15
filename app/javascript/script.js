@@ -2,5 +2,5 @@
 // $(document).ready(function () {
 //   alert('Hello World')
 // });
-$(document).on('turbolinks:load', function ()  
-});               　                          
+$(document).on('turbolinks:load', function () 
+});               　                           
