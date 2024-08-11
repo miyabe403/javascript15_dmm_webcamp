@@ -3,4 +3,4 @@
 //   alert('Hello World')
 // });
 $(document).on('turbolinks:load', function () 
-});  
+}); 
